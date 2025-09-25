@@ -1,4 +1,10 @@
-# PUC_Cyber_Club
-Members -
+# 🌐 PUC_Cyber_Club
 
-Teams - PUC_Br3ach — [CTFtime profile](https://ctftime.org/team/396100) | [HackTheBox profile](https://ctf.hackthebox.com/team/overview/233727)
+## 👥 Members
+Coming soon...
+
+## 🚀 Teams
+**PUC_Br3ach**  
+
+[![CTFtime](https://img.shields.io/badge/CTFtime-Profile-blue?logo=ctftime&logoColor=white)](https://ctftime.org/team/396100)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Team%20Profile-green?logo=hackthebox&logoColor=white)](https://ctf.hackthebox.com/team/overview/233727)
