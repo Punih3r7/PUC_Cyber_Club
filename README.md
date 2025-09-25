@@ -1,6 +1,6 @@
 # 🛡️ PUC_Cyber_Club
 
-## 👥 Members
+## 👥 Club Members
 Coming soon...
 
 ## 🚀 Teams
